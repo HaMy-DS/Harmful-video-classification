@@ -84,6 +84,10 @@ The results of the prediction models using spectrogram images, our code availabl
 | EfficientNetV2M     | 0.6538   | 0.5798    | 0.6627 | 0.6013|
 | EfficientNetV2L     | 0.7179   | 0.6047    | 0.6075 | 0.6075|
 
+<p align="center">
+<img width="700" alt="{A417FB66-AD68-4AB5-8D98-586A5C686B41}" src="https://github.com/user-attachments/assets/621c0646-5f6a-46df-9849-45a25f3f827c">
+</p>
+
 The results of the ```source code/simpletransformers.ipynb``` using text from Speech recognition:
 
 | Model         | Accuracy | Precision | Recall  | F1     |
