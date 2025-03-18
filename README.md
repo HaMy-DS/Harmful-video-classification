@@ -1,4 +1,7 @@
 # Harmful Videos Classification for Safer Online Social Network
+
+**Link paper:** https://ieeexplore.ieee.org/abstract/document/10908337
+
 **Abstract:** Video classification is a prominent research topic focusing
 mainly on object, context, and action classification. However, recent advancements in speech processing, computer vision, and natural language
 processing have presented new challenges in effectively classifying videos
